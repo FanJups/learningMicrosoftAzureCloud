@@ -9,4 +9,10 @@ https://github.com/Azure/azure-cli/issues/4618
 
 https://docs.microsoft.com/en-us/cli/azure/authenticate-azure-cli?view=azure-cli-latest
 
+## az login does not work
+
+https://www.google.com/search?q=az+login+does+not+work&oq=az+login+do&aqs=chrome.2.69i57j0l3.8127j0j7&sourceid=chrome&ie=UTF-8
+
+
+
 
